@@ -1,75 +1,62 @@
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<h1 align="center">Hey 👋, I'm 😎 Sahil Dholpuria</h1>
 
-   
-  </head>
-  <body>
-  <center><h1>Hey 👋, I'm 😎 Sahil Dholpuria.</h1></center>
-  
-  
-
-<a href="https://github.com/Sahildholpuria" rel="nofollow">
-    <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" style="max-width:100%;">
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-<a href="" rel="nofollow">
-    <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" style="max-width:100%;">
+  <a href="mailto:sahildholpuria@outlook.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
-<a href="https://www.facebook.com/sahildholpuria1998/" rel="nofollow">
-    <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" style="max-width:100%;">
-  </a>
-<a href="https://www.instagram.com/sahildholpuria/" rel="nofollow">
-    <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/instagram.svg" style="max-width:100%;">
-  </a>
-<a href="https://twitter.com/sahildholpuria1" rel="nofollow">
-    <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/twitter.svg" style="max-width:100%;">
-  </a>
-<a href="mailto:dholpuria1999@gmail.com" rel="nofollow">
-    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" style="max-width:100%;">
-  </a>
-<a href="https://www.youtube.com/channel/UCNg-dM3Ynge55bwOWT2daoQ" rel="youtube">
-    <img align="left" alt="Learn Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/youtube.svg" style="max-width:100%;">
-  </a>
-<a href="https://www.youtube.com/channel/UC6ZwumwdK5WpPOUKaZu42BA" rel="youtube">
-    <img align="left" alt="Sahil Dholpuria" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/youtube.svg" style="max-width:100%;">
-  </a>
-<a href="https://dev.to/sahildholpuria" rel="youtube">
-    <img align="left" alt="Sahil Dholpuria" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dev-dot-to.svg" style="max-width:100%;">
-  </a>
-<a href="https://medium.com/@sahildholpuria" rel="youtube">
-    <img align="left" alt="Sahil Dholpuria" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/medium.svg" style="max-width:100%;">
-  </a>
- 
-  
-  
+</p>
 
+<img align="right" alt="QA Automation" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+## 👨‍💻 About Me
 
-<br>
-<br>
+- 🔭 Currently working as a **Salesforce QA Engineer**
+- ☁️ Experienced in **Salesforce CRM, Sales Cloud, Service Cloud, CPQ, Health Cloud & Experience Cloud**
+- 🤖 Learning and building **Test Automation Frameworks using Robot Framework & Python**
+- 🚀 Exploring **CI/CD, GitHub Actions, Copado and Salesforce DevOps**
+- 🧪 Passionate about **Manual Testing, Automation Testing & Quality Engineering**
+- 🌱 Continuously learning **Playwright, Selenium and Salesforce Automation**
+- 💬 Ask me about **Salesforce Testing, QA Processes, Automation Frameworks and CI/CD**
+- ⚡ Fun Fact: *Quality is never an accident; it is always the result of intelligent effort.*
+- 📫 Reach me at: **sahildholpuria@outlook.com**
 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"><img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width:100%;"></a>
-<ul>
-<li><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Currently working with Cloud Computing, Java, Android, Python, Web Development;</li>
-<li>👨🏻&zwj;💻 I’m looking to collaborate on kick ass products;</li>
-<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about anything, I am happy to help;</li>
-<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji> Fun-Fact: Anything is possible;</li>
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="mailto:sahildholpuria@outlook.com.com">sahildholpuria@outlook.com</a>;</li>
-</ul>
+---
 
-<!--[![Sahil Dholpuria's github stats](https://github-readme-
-stats.vercel.app/api?//username=Sahildholpuria&show_icons=true&theme=graywhite)](https://github.com/Sahildholpuria/SahilDholpuria)-->
+## 🛠️ Tech Stack
 
+### Salesforce
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Copado](https://img.shields.io/badge/Copado-orange?style=for-the-badge)
 
+### Testing
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-black?style=for-the-badge&logo=robotframework)
+![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=selenium)
+![Playwright](https://img.shields.io/badge/Playwright-2D4559?style=for-the-badge&logo=playwright)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
+### Programming & Tools
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
 
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+</p>
 
+---
 
-  </body>
-  
-<!--       <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
- -->
-</html>
+### 💡 Current Focus
+✔ Salesforce QA Engineering  
+✔ Robot Framework + Python Automation  
+✔ CI/CD Pipelines & Copado  
+✔ Building End-to-End Test Automation Frameworks
