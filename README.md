@@ -9,7 +9,7 @@
 - 🧪 Passionate about **Manual Testing, Test Automation and Quality Engineering**
 - 💬 Ask me about **Salesforce Testing, Automation Frameworks and QA Best Practices**
 - ⚡ Fun Fact: Anything is possible.
-- 📫 Reach me: **sahildholpuria@outlook.com**
+- 📫 Reach me: **dholpuria1999@gmail.com**
 
 ### 🛠️ Tech Stack
 `Salesforce` • `Robot Framework` • `Python` • `Selenium` • `Copado` • `Postman` • `Git` • `GitHub` • `Jira` • `CI/CD`
